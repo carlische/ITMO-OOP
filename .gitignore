@@ -1,0 +1,31 @@
+# Системные файлы
+.lesshst
+.python_history
+.bash_history
+.zsh_history
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS файлы
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
